@@ -1,0 +1,15 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files (auto-generated)
+__pycache__/
+*.pyc
+
+# Datasets and large files
+*.csv
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db
